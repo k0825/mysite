@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/background.JPG") no-repeat fixed center center;
+    width: 100%
+    mix-width:100%;
+    height:auto;
+}
